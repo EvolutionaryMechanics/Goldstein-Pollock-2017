@@ -10,6 +10,10 @@ Contents include:
     ParameterList - typical file containing simulation parameters
     
     pdbfiles.tar - list of (somewhat edited) pdb files used as the native structure and structures representing unfolded state
+    
+    Sequences - list of sequences with reasonable starting stability
+    
+    
 
 Note that this program requires access to the following files:
 
