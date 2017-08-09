@@ -5,7 +5,17 @@ Contents include:
 
     Simulate.tar - Source code for evolutionary simulations written in Java
 
-    Simulate.jar file
+    Simulate.jar - compiled files
+    
+    ParameterList - typical file containing simulation parameters
+    
+    pdbfiles.tar - list of (somewhat edited) pdb files used as the native structure and structures representing unfolded state
 
-Note that this program requires access to:
+Note that this program requires access to the following files:
+
+    ParameterList
+    
+    Sequences (optional - contains a list of sequences that have reasonable stabilities)
+    
+    pdbfiles - location is specified in ParameterList
   
